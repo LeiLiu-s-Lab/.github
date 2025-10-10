@@ -5,9 +5,9 @@
 	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/leiliu-s-lab">
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/leiliu-s-lab">
 <br>
-<a href="https://leiliu-s-lab.github.io/" target="_blank" style="margin-top: 10px"><img src="./files/icon/wflab-icon.png" height="70px" style="margin-bottom:-1px"></a>
-<a href="https://person.zju.edu.cn/leiliu_cn" target="_blank"><img src="./files/icon/isee-zju-icon.jpg" height="70px" style="margin-bottom:-1px"></a>
-	<a href="https://www.zju.edu.cn" target="_blank"><img src="./files/icon/zju-icon.png" height="70px" style="margin-bottom:-1px"></a>
+<a href="https://leiliu-s-lab.github.io/" target="_blank" style="margin-top: 10px"><img src="../files/icon/wflab-icon.png" height="70px" style="margin-bottom:-1px"></a>
+<a href="https://person.zju.edu.cn/leiliu_cn" target="_blank"><img src="../files/icon/isee-zju-icon.jpg" height="70px" style="margin-bottom:-1px"></a>
+	<a href="https://www.zju.edu.cn" target="_blank"><img src="../files/icon/zju-icon.png" height="70px" style="margin-bottom:-1px"></a>
 </h1>
 
 
@@ -19,10 +19,10 @@
 <p>We have published multiple papers at top venues such as TIT, TWC, and TCOMM. Our representitive work including three main aspects: Random Modulation, AMP Algorithms, and Turbo Algorithms. </p>
 
 <p  style="margin-top: -10px;">
-  <a href="mailto:lei_liu@zju.edu.cn" target="_blank"><img src="./files/icon/email.png" height="32px" style="margin-bottom:-4px"></a>&nbsp;
-  <a href="https://scholar.google.com/citations?user=YYWq1tIAAAAJ&hl=zh-CN" target="_blank"><img src="./files/icon/google_scholar.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
-  <a href="https://github.com/leiliu-s-lab" target="_blank"><img src="./files/icon/github_s.jpg" height="30px" style="margin-bottom:-3px"></a>&nbsp;
-  <a href="./files/wflab-wechat.png" target="_blank"><img src="./files/icon/wechat.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+  <a href="mailto:lei_liu@zju.edu.cn" target="_blank"><img src="../files/icon/email.png" height="32px" style="margin-bottom:-4px"></a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=YYWq1tIAAAAJ&hl=zh-CN" target="_blank"><img src="../files/icon/google_scholar.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+  <a href="https://github.com/leiliu-s-lab" target="_blank"><img src="../files/icon/github_s.jpg" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+  <a href="./files/wflab-wechat.png" target="_blank"><img src="../files/icon/wechat.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fleiliu-s-lab.github.io%2F"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fleiliu-s-lab.github.io%2F&labelColor=%232ccce4&countColor=%230158f9" /></a>
 </p>
 
@@ -32,7 +32,7 @@
 ## I. Random Modulation (RM)
 
 
-**[ISIT 2025]** *L. Liu*, *Y. Chi* and *S. Huang*, "Random Modulation: Achieving Asymptotic Replica Optimality over Arbitrary Norm-Bounded and Spectrally Convergent Channel Matrice," Proc. 2025 IEEE Int. Symp. Inf. Theory, Ann Arbor (Michigan), USA.  [[Matlab](https://pan.zju.edu.cn/share/4c2d4f9ef5ad9ae96c9ee1fa50)][[Slides](https://pan.zju.edu.cn/share/47a8bfb6dd3f603b11a955caad)][[Video](https://pan.zju.edu.cn/share/4e03b379ece5b588222765fcb3)] 
+**[ISIT 2025]** *L. Liu*, *Y. Chi* and *S. Huang*, "Random Modulation: Achieving Asymptotic Replica Optimality over Arbitrary Norm-Bounded and Spectrally Convergent Channel Matrice," Proc. 2025 IEEE Int. Symp. Inf. Theory, Ann Arbor (Michigan), USA.  [[Matlab](https://pan.zju.edu.cn/share/4c2d4f9ef5ad9ae96c9ee1fa50)][[Slides](https://pan.zju.edu.cn/share/47a8bfb6dd3f603b11a955caad)][[Video](https://pan.zju.edu.cn/share/4e03b379ece5b588222765fcb3)][[GitHub](https://github.com/LeiLiu-s-Lab/Random-Modulation)] 
 
 **[WCL]** *Y. Chi*, *L. Liu*, Y. Ge, X. Chen, Y. Li, and Z. Zhang, “Interleave frequency division multiplexing”, IEEE Wireless Communications Letters, vol. 13, no. 7, pp. 1963-1967, July 2024. [[WeChat Poster](https://mp.weixin.qq.com/s/T6pqDwmciOzHlU39lRs_ag)]
 
@@ -42,7 +42,7 @@
 
 ## II. AMP Algorithms (MAMP & OAMP)
 
-**[TIT]** *L. Liu*, *S. Huang* and B. M. Kurkoski, ``Memory AMP," IEEE Transactions on Information Theory, vol. 68, no. 12, pp. 8015-8039, Dec. 2022. [[Matlab](https://github.com/LeiLiu-s-Lab/Memory_AMP)][[Slides](https://pan.zju.edu.cn/share/69021c98e094380992d867c2b0)][[Video](https://www.bilibili.com/video/BV1ru4y1X7Lz)][[WeChat Poster](https://mp.weixin.qq.com/s/v4xzmjLyWjiwup9ZBfr6mg)]
+**[TIT]** *L. Liu*, *S. Huang* and B. M. Kurkoski, ``Memory AMP," IEEE Transactions on Information Theory, vol. 68, no. 12, pp. 8015-8039, Dec. 2022. [[Matlab](https://github.com/LeiLiu-s-Lab/Memory_AMP)][[Slides](https://pan.zju.edu.cn/share/69021c98e094380992d867c2b0)][[Video](https://www.bilibili.com/video/BV1ru4y1X7Lz)][[WeChat Poster](https://mp.weixin.qq.com/s/v4xzmjLyWjiwup9ZBfr6mg)][[GitHub](https://github.com/LeiLiu-s-Lab/Memory_AMP)]
 
 **[SPL]** *J. Lu*, *L. Liu*, *S. Huang*, N. Wei and X. Chen, "Distributed memory approximate message passing," IEEE Signal Processing Letters, vol. 31, pp. 2660-2664, 2024. [[WeChat Poster](https://mp.weixin.qq.com/s/tIx7ur0xv5e_RCJRjfhiVA)]
 
