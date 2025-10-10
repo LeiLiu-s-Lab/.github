@@ -16,7 +16,7 @@
 <h3>🏠 <b>Homepage</b>: <a href="https://leiliu-s-lab.github.io" target="_blank">leiliu-s-lab.github.io</a></h3>
 <p>Hi! This is <b>Wireless Frontier Lab (Chinese name: 无线前沿实验室)</b>, one of the research labs at <a href="https://www.isee.zju.edu.cn" target="_blank">College of ISEE@ZJU</a> (since 2023), led by <a href="https://person.zju.edu.cn/leiliu_cn">Prof. Lei Liu</a> and working closely with <a href="https://person.zju.edu.cn/en/zhaoyangzhang">Prof. Zhaoyang Zhang</a> and <a href="https://web.xidian.edu.cn/yhchi/">Prof. Yuhao Chi</a>. Our research focuses on wireless communication and signal procssing, information theory, coding theory, message passing algorithms and beyond. including OAMP/MAMP algorithms, Advanced Random Modulation/Multiplexing, and AI-RAN signal processing.</p>
 
-<p>We have published multiple papers at top venues such as TIT, TWC, and TCOMM. Our representitive work including three main aspects: Random Modulation, AMP Algorithms, and Turbo Algorithms. </p>
+<p>We have published multiple papers at top IEEE Journals such as TIT, TWC, TSP, TCOMM, and JASC. Our representitive work including three main aspects: Random Modulation, AMP Algorithms, and Turbo Algorithms. </p>
 
 <p  style="margin-top: -10px;">
   <a href="mailto:lei_liu@zju.edu.cn" target="_blank"><img src="../files/icon/email.png" height="32px" style="margin-bottom:-4px"></a>&nbsp;
