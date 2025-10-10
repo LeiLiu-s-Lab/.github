@@ -66,20 +66,20 @@
 
 **[TSP]** *L. Liu*, *Y. Chi*, Y. Li, and Z. Zhang, ``Achievable rates of generalized Linear systems with orthogonal/vector AMP receiver," IEEE Transactions on Signal Processing, vol. 71, pp. 4116-4133, Nov. 2023. 
 
-**[TWC]** J. Ma, L. Liu*,  X. Yuan and L. Ping, ``On orthogonal AMP in coded linear vector systems," IEEE Transactions on Wireless Communications, 18(12), 6487-6501, Oct. 2019.
+**[TWC]** J. Ma, *L. Liu*,  X. Yuan and L. Ping, ``On orthogonal AMP in coded linear vector systems," IEEE Transactions on Wireless Communications, 18(12), 6487-6501, Oct. 2019.
 
-**[TCOMM]** *Y. Chi*, L. Liu*, G. Song, Y. Li, Y. L. Guan and C. Yuen, ``Constrained capacity Optimal generalized multi-user MIMO: A theoretical and practical framework," IEEE Transactions on Communications, vol. 70, no. 12, pp. 8086-8104, Dec. 2022. [[Slides](https://drive.google.com/file/d/1yhyyM6mCCYvSvtissfkKmYTQVV5kKuP2/view?usp=sharing)]
+**[TCOMM]** *Y. Chi*, *L. Liu*, G. Song, Y. Li, Y. L. Guan and C. Yuen, ``Constrained capacity Optimal generalized multi-user MIMO: A theoretical and practical framework," IEEE Transactions on Communications, vol. 70, no. 12, pp. 8086-8104, Dec. 2022. [[Slides](https://drive.google.com/file/d/1yhyyM6mCCYvSvtissfkKmYTQVV5kKuP2/view?usp=sharing)]
 
 ## IV. Turbo Algorithms (GMP) 
 
-**[Highly-Cited Paper, TWC]** L. Liu, C. Yuen, Y. L. Guan, Y. Li and C. Huang, ``Gaussian message passing for overloaded massive MIMO-NOMA," EEE Transactions on Wireless Communications, vol. 18, no. 1, 210-226, Jan. 2019. [[Matlab](https://drive.google.com/file/d/15PmCpKQ3AxMePet4AbYEHm3HM8DAoutI/view?usp=sharing)] [[Slides](https://drive.google.com/open?id=1aeC-wx3okV5uWZDVD_p34zfyQWVp43tR)]
+**[Highly-Cited Paper, TWC]** *L. Liu*, C. Yuen, Y. L. Guan, Y. Li and C. Huang, ``Gaussian message passing for overloaded massive MIMO-NOMA," EEE Transactions on Wireless Communications, vol. 18, no. 1, 210-226, Jan. 2019. [[Matlab](https://drive.google.com/file/d/15PmCpKQ3AxMePet4AbYEHm3HM8DAoutI/view?usp=sharing)] [[Slides](https://drive.google.com/open?id=1aeC-wx3okV5uWZDVD_p34zfyQWVp43tR)]
 
-**[TWC]** L. Liu, C. Yuen, Y. L. Guan, Y. Li and Y. Su, ``Convergence analysis and assurance for Gaussian message passing iterative detector in massive MU-MIMO systems," IEEE Transactions on Wireless Communications, vol. 15, no. 9, 6487-6501, Sept. 2016. [[matlab](https://drive.google.com/file/d/15PmCpKQ3AxMePet4AbYEHm3HM8DAoutI/view?usp=sharing)] [[Slides](https://drive.google.com/open?id=1aeC-wx3okV5uWZDVD_p34zfyQWVp43tR)]
+**[TWC]** *L. Liu*, C. Yuen, Y. L. Guan, Y. Li and Y. Su, ``Convergence analysis and assurance for Gaussian message passing iterative detector in massive MU-MIMO systems," IEEE Transactions on Wireless Communications, vol. 15, no. 9, 6487-6501, Sept. 2016. [[matlab](https://drive.google.com/file/d/15PmCpKQ3AxMePet4AbYEHm3HM8DAoutI/view?usp=sharing)] [[Slides](https://drive.google.com/open?id=1aeC-wx3okV5uWZDVD_p34zfyQWVp43tR)]
 
-**[Highly-Cited Paper, TSP]** C. Huang, L. Liu*, C. Yuen and S. Sun, ``Iterative channel estimation using LSE and sparse message passing for mmWave MIMO systems," IEEE Transactions on Signal Processing, vol. 67, no. 1, pp. 245 - 259, Jan. 2019.  
+**[Highly-Cited Paper, TSP]** C. Huang, *L. Liu*, C. Yuen and S. Sun, ``Iterative channel estimation using LSE and sparse message passing for mmWave MIMO systems," IEEE Transactions on Signal Processing, vol. 67, no. 1, pp. 245 - 259, Jan. 2019.  
 
-V. Capacity Optimality and Coding Principle of Turbo-LMMSE
+## V. Capacity Optimality and Coding Principle of Turbo-LMMSE
 
-**[Highly-Cited Paper, TSP]** L. Liu, Y. Chi, C. Yuen, Y. L. Guan and Y. Li, ``Capacity-achieving MIMO-NOMA: Iterative LMMSE detection," IEEE Transactions on Signal Processing, vol. 67, no. 7, 1758 - 1773, April 2019.  [[C++](https://drive.google.com/file/d/1BMkdvWdYq_Gxa3EH1PLEno2Gci0hqSG6/view?usp=sharing)] [[Slides](https://drive.google.com/open?id=1djz7Q6jbdwohjgGEKdamuixYtIfKm2L9)] 
+**[Highly-Cited Paper, TSP]** *L. Liu*, *Y. Chi*, C. Yuen, Y. L. Guan and Y. Li, ``Capacity-achieving MIMO-NOMA: Iterative LMMSE detection," IEEE Transactions on Signal Processing, vol. 67, no. 7, 1758 - 1773, April 2019.  [[C++](https://drive.google.com/file/d/1BMkdvWdYq_Gxa3EH1PLEno2Gci0hqSG6/view?usp=sharing)] [[Slides](https://drive.google.com/open?id=1djz7Q6jbdwohjgGEKdamuixYtIfKm2L9)] 
 
 **[TWC]** *Y. Chi*, *L. Liu*, G. Song, C. Yuen, Y. L. Guan and Y. Li, "Practical MIMO-NOMA: Low complexity and capacity-approaching solution," IEEE Transactions on Wireless Communications, vol. 17, no. 9, 6251-6264, Sept. 2018.  [[C++](https://drive.google.com/file/d/1BMkdvWdYq_Gxa3EH1PLEno2Gci0hqSG6/view?usp=sharing)]
