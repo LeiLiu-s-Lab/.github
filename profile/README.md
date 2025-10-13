@@ -72,7 +72,7 @@
 
 ## IV. Turbo Algorithms (GMP) 
 
-**[Highly-Cited Paper, TWC]** *L. Liu*, C. Yuen, Y. L. Guan, Y. Li and C. Huang, ``Gaussian message passing for overloaded massive MIMO-NOMA," EEE Transactions on Wireless Communications, vol. 18, no. 1, 210-226, Jan. 2019. [[Matlab](https://drive.google.com/file/d/15PmCpKQ3AxMePet4AbYEHm3HM8DAoutI/view?usp=sharing)] [[Slides](https://drive.google.com/open?id=1aeC-wx3okV5uWZDVD_p34zfyQWVp43tR)]
+**[Highly-Cited Paper, TWC]** *L. Liu*, C. Yuen, Y. L. Guan, Y. Li and C. Huang, ``Gaussian message passing for overloaded massive MIMO-NOMA," IEEE Transactions on Wireless Communications, vol. 18, no. 1, 210-226, Jan. 2019. [[Matlab](https://drive.google.com/file/d/15PmCpKQ3AxMePet4AbYEHm3HM8DAoutI/view?usp=sharing)] [[Slides](https://drive.google.com/open?id=1aeC-wx3okV5uWZDVD_p34zfyQWVp43tR)]
 
 **[TWC]** *L. Liu*, C. Yuen, Y. L. Guan, Y. Li and Y. Su, ``Convergence analysis and assurance for Gaussian message passing iterative detector in massive MU-MIMO systems," IEEE Transactions on Wireless Communications, vol. 15, no. 9, 6487-6501, Sept. 2016. [[matlab](https://drive.google.com/file/d/15PmCpKQ3AxMePet4AbYEHm3HM8DAoutI/view?usp=sharing)] [[Slides](https://drive.google.com/open?id=1aeC-wx3okV5uWZDVD_p34zfyQWVp43tR)]
 
