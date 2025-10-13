@@ -22,7 +22,7 @@
   <a href="mailto:lei_liu@zju.edu.cn" target="_blank"><img src="../files/icon/email.png" height="32px" style="margin-bottom:-4px"></a>&nbsp;
   <a href="https://scholar.google.com/citations?user=YYWq1tIAAAAJ&hl=zh-CN" target="_blank"><img src="../files/icon/google_scholar.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
   <a href="https://github.com/leiliu-s-lab" target="_blank"><img src="../files/icon/github_s.jpg" height="30px" style="margin-bottom:-3px"></a>&nbsp;
-  <a href="../files/wflab-wechat.png" target="_blank"><img src="../files/icon/wechat.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+  <a href="../files/icon/wechat.png" target="_blank"><img src="../files/icon/wechat.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fleiliu-s-lab.github.io%2F"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fleiliu-s-lab.github.io%2F&labelColor=%232ccce4&countColor=%230158f9" /></a>
 </p>
 
