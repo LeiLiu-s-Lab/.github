@@ -31,6 +31,7 @@
 
 ## I. Random Modulation (RM)
 
+**[TIT]** *L. Liu*, *Y. Chi*, *S. Huang*, and *Z. Zhang*, "Random Multiplexing," IEEE Transactions on Information Theory, vol. 72, no. 4, pp. 2277-2306, April 2026. [[Matlab](https://github.com/LeiLiu-s-Lab/Random-Multiplexing)][[GitHub](https://github.com/LeiLiu-s-Lab/Random-Multiplexing)]
 
 **[ISIT 2025]** *L. Liu*, *Y. Chi* and *S. Huang*, "Random Modulation: Achieving Asymptotic Replica Optimality over Arbitrary Norm-Bounded and Spectrally Convergent Channel Matrice," Proc. 2025 IEEE Int. Symp. Inf. Theory, Ann Arbor (Michigan), USA.  [[Matlab](https://pan.zju.edu.cn/share/4c2d4f9ef5ad9ae96c9ee1fa50)][[Slides](https://pan.zju.edu.cn/share/47a8bfb6dd3f603b11a955caad)][[Video](https://pan.zju.edu.cn/share/4e03b379ece5b588222765fcb3)][[GitHub](https://github.com/LeiLiu-s-Lab/Random-Modulation)] 
 
